@@ -1,4 +1,3 @@
-install.packages(c("tidyverse", "ggplot2", "plotly", "lubridate", "dplyr", "randomForest", "shiny"))
 #install packages
 library(tidyverse)  #tidyverse packages
 library(dplyr) #data manipulation
