@@ -9,8 +9,7 @@ library(shiny)  #shiny dashboard app
 
 
 # load data
-car_data <- read.csv("C:/Users/gupta/Downloads/Car_sales.csv")
-
+car_data <- read.csv("Car_sales.csv")
 
 # data inspection
 head(car_data)
