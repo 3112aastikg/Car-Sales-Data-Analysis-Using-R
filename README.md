@@ -93,6 +93,7 @@ Users can provide:
 The application then uses the predictive model to estimate expected car sales.
 
 This makes the project useful not only for historical analysis but also for exploring how different vehicle specifications could influence sales.
+RMSE (Root Mean Square Error) and Mapping Accuracy was also calculated. 
 
 ---
 
